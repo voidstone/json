@@ -1,6 +1,8 @@
 {
   "posts": [
     {
+      "surgery": "21.12.2023",
+      "oncology": "25.11.2024",
       "id": 1,
       "title": "hello"
     }

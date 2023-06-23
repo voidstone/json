@@ -5,6 +5,18 @@
       "oncology": "25.11.2024",
       "id": 1,
       "title": "hello"
+    },
+    {
+      "MEDSERVICE":"B01.057.001",
+      "MO":300,
+      "DBEGIN": "01.09.2022",
+      "DEND": "31.12.2999"
+    },
+    {
+      "MEDSERVICE":"st19.109.5",
+      "MO":101,
+      "DBEGIN": "01.09.2022",
+      "DEND": "31.12.2999"
     }
   ],
   "profile": {

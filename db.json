@@ -7,10 +7,16 @@
       "title": "hello"
     },
     {
-      "MEDSERVICE":"B01.057.001",
+      "MEDSERVICE":"B01.057.001.453",
       "MO":300,
       "DBEGIN": "01.09.2022",
       "DEND": "31.12.2999"
+    },
+    {
+      "MEDSERVICE":"B01.024.001.888",
+      "MO":300,
+      "DBEGIN": "01.09.2022",
+      "DEND": "26.06.2023"
     },
     {
       "MEDSERVICE":"st19.109.5",
